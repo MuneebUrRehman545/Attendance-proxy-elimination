@@ -19,8 +19,8 @@ temp_image_dir = "captures"
 os.makedirs(temp_image_dir, exist_ok=True)
 
 # Gmail configuration
-sender_email = "muneebfarooqi989@gmail.com"
-receiver_email = "bsaicust@gmail.com"
+sender_email = "....@gmail.com"
+receiver_email = ".....@gmail.com"
 app_password = "your email app password"
 
 # ------------------------- Load Known Faces -------------------------
